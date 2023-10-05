@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://esign.yyyue.xyz/ESignLogo200.png</string>
+					<string>https://objectifsmartphone.fr/wp-content/uploads/2021/03/49A98F07-ADBD-4FFC-9C10-267731DB4F2C.jpeg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://esign.yyyue.xyz/EsignLogo200.png</string>
+					<string>https://objectifsmartphone.fr/wp-content/uploads/2021/03/49A98F07-ADBD-4FFC-9C10-267731DB4F2C.jpeg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Esign</string>
+				<string>Phoenix6</string>
 			</dict>
 		</dict>
 	</array>
