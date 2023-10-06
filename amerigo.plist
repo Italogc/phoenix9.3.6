@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>p3.xyz.yyyue.esign</string>
+				<string>it.ideasolutions.amerigo-free</string>
 				<key>bundle-version</key>
-				<string>4.8.2</string>
+				<string>3.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Esign</string>
+				<string>Amerigo</string>
 			</dict>
 		</dict>
 	</array>
